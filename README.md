@@ -42,7 +42,6 @@ File: SalesForCourse_quizz_table.csv
 | Unit Price |	Price of the product per unit. (Float)|
 | Revenue |	Total revenue generated from the sale. (Float)|
 | Column1 |	Unknown. (Unknown)|
-|---|---|
 
 ## Acknowledgements
 * If you use this dataset in your research, please credit the original authors.
